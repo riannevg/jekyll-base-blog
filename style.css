@@ -1,0 +1,23 @@
+header,
+footer,
+section {
+    padding:5%;
+    border: 2px solid orange;
+}
+
+
+.padded-1{
+    padding:1rem;
+}
+
+.tag{
+    color:red;
+}
+
+.bg-image{
+    background-image:url('/images/demo_blog.jpg');
+    background-color:green;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 30vh;
+}
